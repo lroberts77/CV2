@@ -23,6 +23,16 @@ Adaptable software developer with a can do attitude, I am a recent graduate of M
 |<img width="1604" alt="" src="./Assets/bnb.png" height="150" width="258"> | <img width="1604" alt="" src="./Assets/play.png" height="150" width="258">  | <img width="1604" alt="" src="./Assets/bank.jpg" height="150" width="258">  |
 | Our first Makers Academy team project. Given just under 2 weeks to make a rival to airbnb and learn rails from scratch. We taught ourselves rails and authentication with relational databases in postgresql. | Short on time and tired of your playlists that you keep forgetting to update? No problem Introducing: [ROAD TO DISCOVERY](https://road-to-discovery.herokuapp.com/). Created using React, spotifys API, Travis for CI and automated deployment to heroku in just over a week. | Week 10 of Makers Academy, to showcase solo understanding in OOP and TDD. Written in Ruby and tested with rspec and simplecov. |
 
+## Skills
+
+#### Efficient and economical
+To enable me to work effectively I carefully balance my need to make all of my work as perfect as possible with my concious effort to be as efficient as possible. During my career I have learned to strike a good balance between the two. My last role has taught me a lot about working to deadlines, working methodically to solve problems and communication which I have used to help me to become a better software developer.
+
+#### Communication and teamwork
+Teamwork and communication was an essential part of my previous role. Making sure everyone was aware of what they needed to do whilst communicating with each other to complete tasks cohesively. This enabled me to see the benefits of teamwork and communication which I use every day as a software developer to problem solve, pair programme and coach.
+
+#### Analytical thinking and problem solving
+Throughout my career the main part of my job has been to solve problems on a daily basis. This has allowed me to refine my analytical skills by first understanding the problems, prioritizing them and then dividing them into smaller solvable pieces. Along with teamwork and communication this approach has yielded positive results during my career.
 
 ## Education
 
@@ -39,17 +49,6 @@ During my time at Makers, I learned:
 
 #### Ealing Tertiary College (98 – 99)
 BTEC GNVQ IT intermediate (Merit)
-
-## Skills
-
-#### Efficient and economical
-To enable me to work effectively I carefully balance my need to make all of my work as perfect as possible with my concious effort to be as efficient as possible. During my career I have learned to strike a good balance between the two. My last role has taught me a lot about working under pressure, working methodically to solve problems and communication which I have used to help me to become a better software developer.
-
-#### Communication and teamwork
-Teamwork and communication was an essential part of my previous role. Making sure everyone was aware of what they needed to do whilst communicating with each other to complete tasks cohesively. This enabled me to see the benefits of teamwork and communication which I use every day as a software developer to problem solve, pair programme and coach.
-
-#### Analytical thinking and problem solving
-Throughout my career the main part of my job has been to solve problems on a daily basis. This has allowed me to refine my analytical skills by first understanding the problems, prioritizing them and then dividing them into smaller solvable pieces. Along with teamwork and communication this approach has yielded positive results during my career.
 
 ## Experience
 
