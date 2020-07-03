@@ -4,6 +4,12 @@
 
 <div align="center">
 
+[Portfolio](https://bit.ly/liams_portfolio)
+
+
+
+<div align="center">
+
 [Projects](#Projects) |
 [Education](#Education) |
 [Skills](#Skills)  |
@@ -93,4 +99,4 @@ Setting up and configuring computer networks.
 ## Contact
 - email: liamroberts77@googlemail.com
 - phone: 07717 749 485
-- city: London
+- Location: London, Harrow
