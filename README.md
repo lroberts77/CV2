@@ -19,8 +19,9 @@
 
 </div>
 
+Full stack software developer and recent graduate of Makers Academy. I am skilled in Ruby, JavaScript, HTML, CSS and React. I pride myself on attention to detail, problem solving and learning new things which also enables me to help others. I'm determined to build a career in software development that will allow me to use my knowledge, curiosity and ideas to deliver effective results.
 
-Adaptable software developer with a can do attitude, I am a recent graduate of Makers Academy May 2020 skilled in Ruby and JavaScript. I take pride in attention to detail, problem solving and learning new things which also enables me to help others. I'm determined to work hard towards building a career in software development, where I can use the skills I have acquired and learn new ones.
+<!-- Adaptable software developer with a can do attitude, I am a recent graduate of Makers Academy May 2020 skilled in Ruby and JavaScript. I take pride in attention to detail, problem solving and learning new things which also enables me to help others. I'm determined to work hard towards building a career in software development, where I can use the skills I have acquired and learn new ones. -->
 
 ## Projects
 
