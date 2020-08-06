@@ -12,8 +12,8 @@
 <div align="center">
 
 [Projects](#Projects) |
-[Education](#Education) |
 [Skills](#Skills)  |
+[Education](#Education) |
 [Experience](#Experience) |
 [Hobbies](#Hobbies) |
 [Contact](#Contact)
