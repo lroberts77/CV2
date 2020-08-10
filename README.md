@@ -19,7 +19,7 @@
 [Contact](#Contact)
 
 <p align="center"> 
-  Visitor count<br><br>
+  Visitor count<br>
   <img src="https://profile-counter.glitch.me/lroberts77/count.svg" />
 </p>
 
