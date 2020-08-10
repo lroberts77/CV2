@@ -18,6 +18,8 @@
 [Hobbies](#Hobbies) |
 [Contact](#Contact)
 
+![Visitor Count](https://profile-counter.glitch.me/lroberts77/count.svg)
+
 </div>
 
 Full stack software developer and recent graduate of Makers Academy. I am skilled in Ruby, JavaScript, HTML, CSS and React. I pride myself on attention to detail, problem solving and learning new things which also enables me to help others. I'm determined to build a career in software development that will allow me to use my knowledge, curiosity and ideas to deliver effective results.
