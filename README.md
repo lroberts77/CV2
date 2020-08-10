@@ -18,7 +18,10 @@
 [Hobbies](#Hobbies) |
 [Contact](#Contact)
 
-![Visitor Count](https://profile-counter.glitch.me/lroberts77/count.svg)
+<p align="center"> 
+  Visitor count<br><br>
+  <img src="https://profile-counter.glitch.me/lroberts77/count.svg" />
+</p>
 
 </div>
 
