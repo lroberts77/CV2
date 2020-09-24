@@ -31,6 +31,8 @@ Full stack software developer and recent graduate of Makers Academy. I am skille
 
 ## Projects
 
+##### Visit my [online portfolio](https://bit.ly/liams_portfolio) for more projects....
+
 |</a> [Makers Bnb](https://github.com/Apliz/MakersBnb)|</a> [React Spotify app](https://github.com/Team-react/Playlist_App)|</a> [Bank account](https://github.com/lroberts77/Bank-account) \| [Gilded Rose](https://github.com/lroberts77/GildedRose-Refactoring-Kata)|
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="" src="https://github.com/lroberts77/lroberts77/blob/master/Assets/bnb.png" height="150" width="258"> | <img width="1604" alt="" src="https://github.com/lroberts77/lroberts77/blob/master/Assets/play.png" height="150" width="258">  | <img width="1604" alt="" src="https://github.com/lroberts77/lroberts77/blob/master/Assets/bank.jpg" height="150" width="258">  |
