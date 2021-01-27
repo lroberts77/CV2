@@ -36,7 +36,9 @@ Full stack software developer and recent graduate of Makers Academy. I am skille
 |</a> [Rmemember-Beta](https://remember-beta.netlify.app/)|</a> [React Spotify app](https://github.com/Team-react/Playlist_App)|</a> [Bank account](https://github.com/lroberts77/Bank-account) \| [Gilded Rose](https://github.com/lroberts77/GildedRose-Refactoring-Kata)|
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="" src="https://github.com/lroberts77/lroberts77/blob/master/Assets/beta.png" height="150" width="258"> | <img width="1604" alt="" src="https://github.com/lroberts77/lroberts77/blob/master/Assets/play.png" height="150" width="258">  | <img width="1604" alt="" src="https://github.com/lroberts77/lroberts77/blob/master/Assets/bank.jpg" height="150" width="258">  |
-| Our first Makers Academy agile team project. Given just under 2 weeks to make a rival to airbnb and learn Ruby on rails. Created using Ruby on rails with authentication and relational databases in postgresql. | Short on time and tired of your playlists that you keep forgetting to update? No problem Introducing: [ROAD TO DISCOVERY](https://road-to-discovery.herokuapp.com/). Agile team project created using React, spotifys API, Travis for CI and continuous deployment to heroku in just over a week. | Week 10 of Makers Academy, to showcase solo understanding in OOP and TDD. Written in Ruby and tested with rspec and simplecov. |
+| Recent solo fullstack social project. Use the form to create posts then like, delete and update at your convenience. Created using the MERN stack with the back end deployed to heroku and the front end deployed to netlify. Authentication update coming soon.
+| Short on time and tired of your playlists that you keep forgetting to update? No problem Introducing: [ROAD TO DISCOVERY](https://road-to-discovery.herokuapp.com/). Agile team project created using React, spotifys API, Travis for CI and continuous deployment to heroku in just over a week. 
+| Week 10 of Makers Academy, to showcase solo understanding in OOP and TDD. Written in Ruby and tested with rspec and simplecov. |
 
 ## Skills
 
