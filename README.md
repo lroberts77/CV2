@@ -31,7 +31,7 @@ Full stack software developer and recent graduate of Makers Academy. I am skille
 
 ## Projects
 
-##### Visit my [online portfolio](https://bit.ly/liams_portfolio) for more projects....
+### Visit my [online portfolio](https://bit.ly/liams_portfolio) for more projects....
 
 |</a> [Rmemember-Beta](https://github.com/lroberts77/remember-beta)|</a> [React Spotify app](https://github.com/Team-react/Playlist_App)|</a> [Bank account](https://github.com/lroberts77/Bank-account) \| [Gilded Rose](https://github.com/lroberts77/GildedRose-Refactoring-Kata)|
 |:-------------------------:|:-------------------------:|:-------------------------:|
