@@ -68,7 +68,7 @@ BTEC GNVQ IT intermediate (Merit)
 ## Experience
 
 ### Asda Ecommerce Manager
-Dates Employed Jan 2013 – Jan 2020\
+Dates Employed Jan 2014 – Jan 2020\
 Liaise with various teams to ensure orders are put together efficiently, accurately and delivered within time deadlines. Rota planning, resource management, staff training, task prioritisation for delivery, loaders and warehouse teams. Handling any internal requests or complaints and escalation point for customer support queries related to the online department.
 
 ### Asda AA drivetech assessor
